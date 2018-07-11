@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/root/.vim/bundle'
+let g:netrw_dirhist_2='/root/.vim/bundle/tagbar'
+let g:netrw_dirhist_3='/root'
+let g:netrw_dirhist_4='/'
+let g:netrw_dirhist_5='/home'
+let g:netrw_dirhist_6='/home/pons/devp/2500_mctpbo/ws_2500_FP/source/libcomppldm-1.0.0.0.0-src/data'
+let g:netrw_dirhist_7='/home/pons/devp/pldm_may16/ws_2500_FP/source/libcomppldm-1.0.0.0.0-src/data'
